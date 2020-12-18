@@ -27,7 +27,7 @@ h2 {
     background-color: black;
     display: flex;
     justify-content: center;
-    width: 55%;
+    width: 45%;
     margin: 30px auto;
 }
   
@@ -37,6 +37,7 @@ h2 {
     align-items: center;
     justify-content: center;
     flex-direction: row;
+    background-color: black;
 }
 
 img {
